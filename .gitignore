@@ -2,3 +2,5 @@
 all_models_train.txt
 books.txt
 vin_ford_train.txt
+regex_vin_exercises-workbook.ipynb
+regex_intro-example.ipynb
